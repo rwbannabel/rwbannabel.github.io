@@ -1,0 +1,27 @@
+/* Headshot */
+.headshot {
+  border-radius: 6px;
+  width: 100%;
+  max-width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  object-position: center top;
+  display: block;
+  margin-top: 0.5rem;
+}
+
+/* Tighten navbar */
+.navbar {
+  font-size: 0.95rem;
+}
+
+/* About page name heading */
+h2:first-of-type {
+  margin-top: 0;
+}
+
+/* Footer */
+.nav-footer {
+  font-size: 0.85rem;
+  color: #6c757d;
+}
