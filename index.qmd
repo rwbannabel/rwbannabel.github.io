@@ -1,0 +1,34 @@
+---
+title: ""
+---
+
+:::: {.columns}
+
+::: {.column width="68%"}
+
+## Robert Annabel
+
+**Lecturer**, School of Economics, University of Sydney
+
+[r.w.b.annabel@gmail.com](mailto:r.w.b.annabel@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/robert-annabel/)
+
+---
+
+I am a Lecturer in the School of Economics at the University of Sydney. I hold a PhD in Economics from UNSW Business School (2025), supervised by Professor Arghya Ghosh and Associate Professor Anthony Asher.
+
+My research sits at the intersection of financial economics, industrial organisation theory, and econometric methods. I study how institutional investors — superannuation funds, index funds, and large asset managers — shape the behaviour of the firms they own, with implications for corporate governance, market competition, and sustainability outcomes.
+
+I currently teach Financial Economics (ECON6021) and coordinate the Industrial Organisation stream of the Economics Research Project (ECON7030) at the postgraduate level.
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="28%"}
+
+![](headshot.JPG){.headshot fig-alt="Robert Annabel"}
+
+:::
+
+::::

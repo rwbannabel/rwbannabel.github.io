@@ -1,0 +1,33 @@
+---
+title: "Teaching"
+---
+
+## Current Teaching
+
+**University of Sydney, School of Economics** *(2025–present)*
+
+- **[ECON6021 Financial Economics](https://www.sydney.edu.au/units/ECON6021/2026-S1C-ND-CC)** (postgraduate) — Lecturer and Unit Coordinator. Asset pricing theory and the microeconomics of financial markets; curriculum development, assessment design, and unit coordination.
+- **[ECON7030 Economics Research Project](https://www.sydney.edu.au/units/ECON7030/2026-S1C-ND-CC)** (postgraduate, Industrial Organisation stream) — Lecturer and Unit Coordinator. Master of Economics capstone unit in which students produce an original research report; I lead the IO stream and coordinate concurrent streams.
+
+## Teaching Interests
+
+Active learning; extrinsic and intrinsic motivation for learning; use of AI and educational technology; assessment in the presence of AI.
+
+## Teaching Innovation
+
+In ECON6021 I have introduced two technology-led innovations: deployment of the [Cogniti](https://cogniti.ai) AI platform as a Socratic tutor, direct answer tool, and question generator; and BYOD digital examinations using Respondus Lockdown Browser for both in-semester and final assessments.
+
+## Teaching Background
+
+I have seven years of teaching experience across more than fifteen courses at two Australian universities, spanning actuarial science, economics, econometrics, and financial markets.
+
+**University of New South Wales** *(2019–2025)*
+
+- Co-Lecturer, Probability and Mathematical Statistics (ACTL2131)
+- Head Tutor, Game Theory and Business Strategy (ECON2112), 2022–2024
+- Tutor across a broad range of quantitative subjects including: Asset-Liability and Derivative Management (ACTL3182); Statistical Machine Learning for Risk and Actuarial Applications (ACTL5110); Big Data Econometrics (ECON3210); Econometric Theory and Methods (ECON3203); Introductory Econometrics (ECON2206); Quantitative Business Analytics (COMM3501); and Strategic Decision Making (ZZBU5611)
+- Guest Lecturer, Interdisciplinary Applications of Analytics Techniques (COMM5601)
+
+Software taught across: R, Python, Stata, SAS.
+
+I was nominated for the UNSW Business School Award for Teaching Excellence in Tutoring in 2023.

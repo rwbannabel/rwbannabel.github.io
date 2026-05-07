@@ -1,0 +1,55 @@
+---
+title: "Research"
+---
+
+## Research Interests
+
+Corporate governance and institutional investors; industrial organisation and firm strategy; econometric theory and causal inference; theories of the firm and firm objectives.
+
+## Working Papers
+
+**[1]** Annabel, R., A. Asher, and A. Ghosh (2022). "Company-Level GHG Emissions and an Institutional Investor's Active Ownership Objective: Long-Term Shareholder, Socially Responsible Investor, Common Owner or Stakeholder-Oriented Shareholder?" *SSRN Working Paper* 4288009. [[SSRN]](https://ssrn.com/abstract=4288009)
+
+## PhD Thesis
+
+Annabel, R. (2025). *Essays on Institutional Investors and Firm Behavior.* PhD thesis, School of Economics, UNSW Business School. [[DOI: 10.26190/unsworks/31326]](https://doi.org/10.26190/unsworks/31326)
+
+**Essay 1** develops theoretical results for identifying active ownership objectives — long-term profit maximisation, common ownership, socially responsible investment, and stakeholder theory — from firm-level greenhouse gas emissions and output under different market structures.
+
+**Essay 2** develops the first formal econometric framework for power-based regressions: settings where agents' relative bargaining power mediates group decisions. It provides micro-foundations, conditions for interpreting estimated coefficients, treatment effect bounds, and structural identification strategies.
+
+**Essay 3** provides a comprehensive taxonomy of maximisation problems arising from theories of the firm and from theories of investor, manager, and stakeholder objectives, establishing the conceptual infrastructure for empirical identification of investor types.
+
+## Presentations & Invited Talks
+
+**2026**
+
+- 15th Australasian Workshop on Econometrics and Health Economics, Monash Business School (Apr.)
+- Microeconomic Theory Seminar, University of Sydney (May)
+
+**2024**
+
+- Reserve Bank of Australia and APRA, Brian Gray Scholarship programme (Feb.)
+
+**2023**
+
+- Econometric Society 2023 Australasia Meeting, UNSW Business School (Aug.)
+- Inaugural Markets, Contracts and Organizations Conference, ANU (Jun.)
+- New Frontiers in Corporate Governance: Corporate Governance with Externalities, London School of Economics (Oct., invited attendance)
+
+**2022**
+
+- 29th Global Finance Conference, University of Minho, Braga, Portugal (Jun.)
+- 12th Financial Markets and Corporate Governance Conference, Monash Business School (Apr.)
+
+**2021**
+
+- 29th Colloquium on Pensions and Retirement Research, UNSW Business School (Dec.)
+
+## Scholarships & Awards
+
+- **Brian Gray Scholarship**, Reserve Bank of Australia and APRA (2023–2024)
+- **Ryoichi Sasakawa Young Leaders Fellowship Fund Scholarship**, Nippon Foundation (2021–2024)
+- **Australian Government Research Training Program (RTP) Scholarship** (2021–2024)
+- **State Super Academic Scholarship** (2021)
+- Nominated, UNSW Business School Award for Teaching Excellence in Tutoring (2023)
