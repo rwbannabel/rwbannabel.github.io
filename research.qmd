@@ -4,7 +4,7 @@ title: "Research"
 
 ## Research Interests
 
-Corporate governance and institutional investors; industrial organisation and firm strategy; econometric theory and causal inference; theories of the firm and firm objectives.
+My research sits at the intersection of industrial organisation, corporate governance, financial economics and econometric methods. Substantive interests include: institutional investors and corporate governance; firm strategy and market structure; econometric theory and causal inference; theories of the firm and firm objectives.
 
 ## Working Papers
 
@@ -14,9 +14,9 @@ Corporate governance and institutional investors; industrial organisation and fi
 
 Annabel, R. (2025). *Essays on Institutional Investors and Firm Behavior.* PhD thesis, School of Economics, UNSW Business School. [[DOI: 10.26190/unsworks/31326]](https://doi.org/10.26190/unsworks/31326)
 
-**Essay 1** develops theoretical results for identifying active ownership objectives — long-term profit maximisation, common ownership, socially responsible investment, and stakeholder theory — from firm-level greenhouse gas emissions and output under different market structures.
+**Essay 1** develops theoretical results for identifying active ownership objectives — long-term profit maximisation, common ownership, socially responsible investment, and stakeholder theory — from firm-level greenhouse gas emissions and output.
 
-**Essay 2** develops the first formal econometric framework for power-based regressions: settings where agents' relative bargaining power mediates group decisions. It provides micro-foundations, conditions for interpreting estimated coefficients, treatment effect bounds, and structural identification strategies.
+**Essay 2** develops a formal econometric framework for power-based regressions: settings where agents' relative power mediates group decisions. It provides micro-foundations, conditions for interpreting estimated coefficients, treatment effect bounds, and structural identification strategies.
 
 **Essay 3** provides a comprehensive taxonomy of maximisation problems arising from theories of the firm and from theories of investor, manager, and stakeholder objectives, establishing the conceptual infrastructure for empirical identification of investor types.
 
@@ -53,3 +53,4 @@ Annabel, R. (2025). *Essays on Institutional Investors and Firm Behavior.* PhD t
 - **Australian Government Research Training Program (RTP) Scholarship** (2021–2024)
 - **State Super Academic Scholarship** (2021)
 - Nominated, UNSW Business School Award for Teaching Excellence in Tutoring (2023)
+- **UNSW Co-Op Scholarship**, University of New South Wales (2013–2016)
