@@ -6,8 +6,8 @@ title: "Teaching"
 
 **University of Sydney, School of Economics** *(2025–present)*
 
-- **[ECON6021 Financial Economics](https://www.sydney.edu.au/units/ECON6021/2026-S1C-ND-CC)** (postgraduate) — Lecturer and Unit Coordinator. Asset pricing theory and the microeconomics of financial markets; curriculum development, assessment design, and unit coordination.
-- **[ECON7030 Economics Research Project](https://www.sydney.edu.au/units/ECON7030/2026-S1C-ND-CC)** (postgraduate, Industrial Organisation stream) — Lecturer and Unit Coordinator. Master of Economics capstone unit in which students produce an original research report; I lead the IO stream and coordinate concurrent streams.
+- **[ECON6021 Financial Economics](https://www.sydney.edu.au/units/ECON6021/2026-S1C-ND-CC)** (postgraduate), Lecturer and Unit Coordinator. Asset pricing theory and the microeconomics of financial markets; curriculum development, assessment design, and unit coordination.
+- **[ECON7030 Economics Research Project](https://www.sydney.edu.au/units/ECON7030/2026-S1C-ND-CC)** (postgraduate, Industrial Organisation stream), Lecturer and Unit Coordinator. Master of Economics capstone unit in which students produce an original research report; I lead the IO stream and coordinate concurrent streams.
 
 ## Teaching Interests
 
@@ -15,7 +15,9 @@ Active learning; extrinsic and intrinsic motivation for learning; use of AI and 
 
 ## Teaching Innovation
 
-In ECON6021 I have introduced two technology-led innovations: deployment of the [Cogniti](https://cogniti.ai) AI platform as a Socratic tutor, direct answer tool, and question generator; and BYOD digital examinations using Respondus Lockdown Browser for both in-semester and final assessments.
+In ECON6021 I have introduced two technology-led innovations: deployment of the [Cogniti](https://cogniti.ai) AI platform as a Socratic tutor, direct answer tool, and question generator set up to use Bloom's taxonomy; and BYOD digital examinations using Respondus Lockdown Browser for both in-semester and final assessments.
+
+In ECON7030, a Masters-level capstone, I developed the Industrial Organisation research stream from scratch and coordinate across concurrent streams to maintain assessment consistency. I take a programme-level orientation in this role, communicating from the first lecture which other units in the degree connect to students' research projects.
 
 ## Teaching Background
 
@@ -30,4 +32,4 @@ I have seven years of teaching experience across more than fifteen courses at tw
 
 Software taught across: R, Python, Stata, SAS.
 
-I was nominated for the UNSW Business School Award for Teaching Excellence in Tutoring in 2023.
+I won a UNSW Business School Award for Teaching Excellence in Tutoring in 2023.
